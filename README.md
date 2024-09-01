@@ -30,7 +30,7 @@ I'm Chloé Morali, an enthusiastic, creative recent Computer Science & Engineeri
 ## 🛠️ Skills
 - Programming languages: C++, C, MATLAB, Python/Scikit-learn, ARM, Assembly, CSS, HTML, JavaScript, TypeScript
 - Languages: Native English and French; Advanced Mandarin; Basic Korean
-- Frameworks: Next.js, React Native, Expo Go, Tailwind CSS
+- Frameworks: Next.js, React Native, Expo Go
 - UI Frameworks: Tailwind CSS, Material-UI
 - Tools: command-line, VS Code, Git
 - Platforms: Web Development, iOS Development, GitHub, Linux
