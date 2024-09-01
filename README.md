@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 
 I'm Chloé Morali, an enthusiastic, creative recent Computer Science & Engineering graduate from Santa Clara University and fashionista with a love for technology, culture, and beautiful things.
 
-## About Me
-- 🎓 Recent Graduate in Computer Science and Engineering @santaclarauniversity
-- 🧑‍💻 Former Intern @Shopkick
+## ✨ About Me
+- Recent Graduate in Computer Science and Engineering @santaclarauniversity
+- Former Intern @Shopkick
 
-## Projects
+## 📂 Projects
 - My Senior Capstone Design Project, [IoTsolate: Network Microsegmentation for Securing and Managing IoT Devices](https://github.com/cnmorali/IoTsolate)
 - [CheckMates, a receipt-splitting web application](https://github.com/lyydiakim/checkmate)
 - [PedalPal - Bike Safer!, an app that provides bike-friendly navigation to cyclists](https://github.com/cnmorali/INRIX-Hack-2023)
 
-## Skills
+## 🛠️ Skills
 - Programming languages: C++, C, MATLAB, Python/Scikit-learn, ARM, Assembly, CSS, HTML, JavaScript, TypeScript
 - Languages: Native English and French; Advanced Mandarin; Basic Korean
 - Frameworks: Next.js, React Native, Expo Go, Node.js, Tailwind CSS
@@ -35,7 +35,7 @@ I'm Chloé Morali, an enthusiastic, creative recent Computer Science & Engineeri
 - Tools: command-line, VS Code, Git
 - Platforms: Web Development, iOS Development, GitHub, Linux
 
-## Let's Connect
+## 🔗 Let's Connect
 - [Linkedin](https://www.linkedin.com/in/chloemorali/)
 
 I'm always eager to connect with people who share my passion for technology and creativity. Let's collaborate, network, or just have a friendly chat—feel free to reach out!
