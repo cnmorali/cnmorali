@@ -23,7 +23,8 @@ I'm Chloé Morali, an enthusiastic, creative recent Computer Science & Engineeri
 - Former Intern @Shopkick
 
 ## 📂 Projects
-- [IoTsolate: Network Microsegmentation for Securing and Managing IoT Devices](https://github.com/cnmorali/IoTsolate), my Senior Capstone Design Project 
+- [IoTsolate: Network Microsegmentation for Securing and Managing IoT Devices](https://github.com/cnmorali/IoTsolate), my Senior Capstone Design Project
+- [My Personal Website](https://github.com/cnmorali/Personal-Website), my online portfolio
 - [CheckMates](https://github.com/lyydiakim/checkmate), a receipt-splitting web application
 - [PedalPal - Bike Safer](https://github.com/cnmorali/INRIX-Hack-2023), an app that provides bike-friendly navigation to cyclists
 
