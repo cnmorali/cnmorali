@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![banner](https://github.com/user-attachments/assets/797538a5-692a-40c3-8dd9-d7eedfd6de57)
 
-I'm Chloé Morali, a passionate and creative engineer with a love for technology, culture, and beautiful design.
+I'm Chloé Morali, a curious and creative engineer with a love for technology, culture, and beautiful design.
 
 ## ✨ About Me
 - Recent Graduate in Computer Science and Engineering @santaclarauniversity
