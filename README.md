@@ -29,11 +29,10 @@ I'm Chloé Morali, a passionate and creative engineer with a love for technology
 - [PedalPal - Bike Safer](https://github.com/cnmorali/INRIX-Hack-2023), an app that provides bike-friendly navigation to cyclists
 
 ## 🛠️ Skills
-- Programming languages: C/C++, MATLAB, Python, Assembly, Java, HTML, JavaScript, TypeScript
+- Programming languages: Proficient in C, C++; experienced with Python, JavaScript, TypeScript, MATLAB, Assembly, HTML; learning Java, Swift
+- Frameworks & Libraries: React Native, Next.js, Expo Go, Tailwind CSS, NumPy, Pandas, Scikit-learn
+- Tools & Platforms: Git, Firebase, VS Code, command-line tools, GitHub, Linux, Web & iOS Development
 - Languages: Native English and French; Advanced Mandarin; Basic Korean
-- Frameworks: Next.js, React Native, Expo Go, Tailwind CSS
-- Tools: command-line, VS Code, Git, Firebase, Scikit-learn, NumPy, Pandas
-- Platforms: Web Development, iOS Development, GitHub, Linux
 
 ## 🔗 Let's Connect
 - [Linkedin](https://www.linkedin.com/in/chloemorali/)
