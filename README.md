@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 A curious and creative engineering graduate with a love for technology, culture, and beautiful design.
 
 ## ✨ About Me
+- Associate Solutions Enginner @Verkada
 - Recent Graduate in Computer Science and Engineering @santaclarauniversity
 - Former Intern @Shopkick
 
