@@ -24,6 +24,7 @@ A curious and creative engineering graduate with a love for technology, culture,
 - Former Intern @Shopkick
 
 ## Projects
+- [Verkada Key Management System](https://github.com/cnmorali/Verkada-Key-Manager), my Verkada ASE Program Final Project
 - [IoTsolate: Network Microsegmentation for Securing and Managing IoT Devices](https://github.com/cnmorali/IoTsolate), my Senior Capstone Design Project
 - [My Personal Website](https://github.com/cnmorali/Personal-Website), my online portfolio
 - [CheckMates](https://github.com/lyydiakim/checkmate), a receipt-splitting web application
